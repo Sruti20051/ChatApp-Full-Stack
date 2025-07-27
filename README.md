@@ -100,17 +100,19 @@ cd chat-app
 ## 📸 Screenshots
 
   ## SignUp Page
-     <img width="1914" height="851" alt="image" src="https://github.com/user-attachments/assets/3cddf595-7fbd-402e-b41b-7c9da8ecec98" />
+  <img width="1914" height="851" alt="image" src="https://github.com/user-attachments/assets/3cddf595-7fbd-402e-b41b-7c9da8ecec98" />
+
   ## Login Page
   <img width="1897" height="849" alt="image" src="https://github.com/user-attachments/assets/d1cd0953-620e-4cbc-a3cd-1f291ec7559b" />
-  ## Contact 
-  <img width="562" height="754" alt="image" src="https://github.com/user-attachments/assets/7cbfeb6c-99af-4a77-88b3-1f2555863cd3" />
+  
   ## Chat
   <img width="1912" height="844" alt="image" src="https://github.com/user-attachments/assets/d62b4ba2-fa76-4283-a72e-08c6903db8c1" />
 
   
 ### 👩‍💻 Team
+
 Seepana Sruti – Frontend, UI/UX
+
 Meegada Nandini – Backend, MongoDB, Socket.IO
 
 
